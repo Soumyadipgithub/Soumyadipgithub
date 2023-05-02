@@ -1,3 +1,4 @@
+![logo](https://github.com/Soumyadipgithub/Soumyadipgithub/blob/main/Blue%20Minimalist%20Personal%20Branding%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Soumyadip Giri</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
