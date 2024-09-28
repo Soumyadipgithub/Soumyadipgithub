@@ -16,7 +16,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <div align="center">
     <p align="center">
-    <img width="800" height="220" src="[https://streak-stats.demolab.com?user=sanyab1801](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true)&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+    <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=800">
   </p>
 
 ## <h1 align="center">🏆 GitHub Trophies </h1>
