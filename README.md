@@ -15,9 +15,11 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 ![](https://github-profile-trophy.vercel.app/?username=Soumyadipgithub&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 <h1 align="center">✍️ Random Dev Quote </h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h1 align="center">🔝 Top Contributed Repo </h1>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <h1 align="center">Holopin Badges 🦖</h1>
