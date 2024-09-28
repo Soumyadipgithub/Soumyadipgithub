@@ -22,6 +22,8 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
+[![An image of @soumyadipgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipgithub)](https://holopin.io/@soumyadipgithub)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10)](https://visitcount.itsvg.in)
 
