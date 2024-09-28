@@ -29,7 +29,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ayushjhawar8">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt=" ayushjhawar8's GitHub Stats" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt=" Soumyadipgithub's GitHub Stats" />
         </a>
       </p>
     </td>
