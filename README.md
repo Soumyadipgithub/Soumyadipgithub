@@ -24,7 +24,8 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 ![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
  
-  
+  <table width="100%">
+   <tr>
    <td width="10%">
       <p align="center">
         <a href="https://github.com/Soumyadipgithub">
@@ -32,6 +33,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
         </a>
       </p>
     </td>
+    <tr>
 
 
 <h1 align="center">Holopin Badges 🦖</h1>
