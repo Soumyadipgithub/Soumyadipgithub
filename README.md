@@ -25,7 +25,6 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
  
   <table width="100%">
-   <tr>
    <td width="100%">
       <p align="center">
         <a href="https://github.com/Soumyadipgithub">
@@ -33,7 +32,6 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
         </a>
       </p>
     </td>
-    <tr>
 
 
 <h1 align="center">Holopin Badges 🦖</h1>
