@@ -4,7 +4,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 ## <h1 align="center">🌐 Socials </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&center=true)](https://linkedin.com/in/soumyadip-giri-k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&center=true)](https://x.com/bstsoumyadip123)   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&center=true)](https://youtube.com/@lifeCaptured0895)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&center=true&vCenter=true)](https://linkedin.com/in/soumyadip-giri-k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&center=true&vCenter=true)](https://x.com/bstsoumyadip123)   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&center=true&vCenter=true)](https://youtube.com/@lifeCaptured0895)
 
 
 # <h1 align="center">💻 Tech Stack </h1>
