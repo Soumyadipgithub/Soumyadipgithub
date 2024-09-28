@@ -13,12 +13,12 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 ![](https://github-readme-stats.vercel.app/api?username=Soumyadipgithub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipgithub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
 <div align="center">
     <p align="center">
-    <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=800">
+    <img width="900" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=800">
   </p>
 
+    
 ## <h1 align="center">🏆 GitHub Trophies </h1>
 ![](https://github-profile-trophy.vercel.app/?username=Soumyadipgithub&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
