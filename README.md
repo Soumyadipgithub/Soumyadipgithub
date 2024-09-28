@@ -40,7 +40,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
  
    <p align="center">
         <a href="https://github.com/Soumyadipgithub">
-          <img width="800" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
+          <img width="600" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
         </a>
       </p>
 
