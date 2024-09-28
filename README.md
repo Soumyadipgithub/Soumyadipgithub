@@ -19,7 +19,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <p align="center">
         <a href="https://github.com/Soumyadipgithub">
-          <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt=" Soumyadipgithub's GitHub Stats" />
+          <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
         </a>
       </p>
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
