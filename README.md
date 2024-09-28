@@ -21,7 +21,19 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <h1 align="center">🔝 Top Contributed Repo </h1>
 
-![          ](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+ <table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ayushjhawar8">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt=" ayushjhawar8's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+
 
 <h1 align="center">Holopin Badges 🦖</h1>
 
