@@ -17,7 +17,12 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <h1 align="center">✍️ Random Dev Quote </h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+        <a href="https://github.com/Soumyadipgithub">
+          <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt=" Soumyadipgithub's GitHub Stats" />
+        </a>
+      </p>
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 <h1 align="center">🔝 Top Contributed Repo </h1>
 
