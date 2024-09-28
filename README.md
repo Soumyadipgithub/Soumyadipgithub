@@ -40,14 +40,18 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
  
    <p align="center">
         <a href="https://github.com/Soumyadipgithub">
-          <img width="1000" height="200" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
+          <img width="700" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
         </a>
       </p>
+</p>
+  <p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" height="210em" alt="Graph of Commits" /> </p>
 
 
 <h1 align="center">Holopin Badges 🦖</h1>
 
 [![An image of @soumyadipgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipgithub)](https://holopin.io/@soumyadipgithub)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10)](https://visitcount.itsvg.in)
