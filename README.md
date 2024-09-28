@@ -24,9 +24,8 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 ![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
  
-  <>
-    <td width="100%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+  
+   <td width="100%">
       <p align="center">
         <a href="https://github.com/ayushjhawar8">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt=" Soumyadipgithub's GitHub Stats" />
