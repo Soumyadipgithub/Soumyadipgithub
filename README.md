@@ -14,12 +14,12 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Soumyadipgithub&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=349&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Soumyadipgithub&theme=ambient_gradient&hide_border=false&card_width=0&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=351&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
     <p align="center">
-    <img width="900" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=800">
+    <img width="900" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=801">
   </p>
 
     
