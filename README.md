@@ -23,19 +23,44 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 </div>
 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Soumyadipgithub&theme=ambient_gradient&hide_border=false&card_width=0&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=351&include_all_commits=true&count_private=true&layout=compact)
+<!-- Streak feature -->
+<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"alt="Soumyadip's GitHub Streak" /></p>
+</div>
 
 <div align="center">
-    <p align="center">
-    <img width="900" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=ambient_gradient&hide_border=true&card_width=801">
-  </p>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadipgithub&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipgithub&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipgithub&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadipgithub&theme=github_dark" />
+</div>
 
-    
-## <h1 align="center">🏆 GitHub Trophies </h1>
-![](https://github-profile-trophy.vercel.app/?username=Soumyadipgithub&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+<br>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Soumyadipgithub&theme=darkhub&column=10&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div
+
+
+## <h1 align="center">🔝 Top Contributed Repo </h1>
+   <p align="center">
+        <a href="https://github.com/Soumyadipgithub">
+          <img width="700" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
+        </a>
+      </p>
+</p>
+  
+
+
+<h1 align="center">Holopin Badges 🦖</h1>
+
+[![An image of @soumyadipgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipgithub)](https://holopin.io/@soumyadipgithub)
+
+
+
 
 <h1 align="center">✍️ Random Dev Quote </h1>
 
@@ -44,35 +69,10 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
           <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
         </a>
       </p>
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
-
-
-
-
-<h1 align="center">🔝 Top Contributed Repo </h1>
-
-<!--
-![](https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
- -->
-
- 
-   <p align="center">
-        <a href="https://github.com/Soumyadipgithub">
-          <img width="700" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
-        </a>
-      </p>
-</p>
-  <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" height="210em" alt="Graph of Commits" /> </p>
-
-
-<h1 align="center">Holopin Badges 🦖</h1>
-
-[![An image of @soumyadipgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipgithub)](https://holopin.io/@soumyadipgithub)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+      
