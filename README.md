@@ -62,7 +62,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 
 
-<h1 align="center">✍️ Random Dev Quote </h1>
+<h1 align="center"> </h1>
 
 <p align="center">
         <a href="https://github.com/Soumyadipgithub">
