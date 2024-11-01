@@ -69,10 +69,9 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
           <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
         </a>
       </p>
-
-
-
----
+      
 [![](https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10)](https://visitcount.itsvg.in)
 
-      
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
