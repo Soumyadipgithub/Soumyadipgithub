@@ -31,8 +31,8 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadipgithub&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipgithub&theme=github_dark"  />
+  <img height="181em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadipgithub&theme=github_dark"  />
+  <img height="181em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipgithub&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipgithub&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadipgithub&theme=github_dark" />
 </div>
