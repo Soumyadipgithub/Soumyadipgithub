@@ -25,9 +25,12 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 <!-- Streak feature -->
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
+
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=radical&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"alt="Soumyadip's GitHub Streak" /></p>
+
 </div>
+
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" />
@@ -36,12 +39,14 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipgithub&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadipgithub&theme=github_dark" />
 </div>
-
+ 
 <br>
 <div align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Soumyadipgithub&theme=darkhub&column=10&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div
+
+
 
 
 ## <h1 align="center">🔝 Top Contributed Repo </h1>
