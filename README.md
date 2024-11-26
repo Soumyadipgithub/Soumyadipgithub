@@ -63,16 +63,6 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 [![An image of @soumyadipgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipgithub)](https://holopin.io/@soumyadipgithub)
 
-
-
-
-<h1 align="center"> </h1>
-
-<p align="center">
-        <a href="https://github.com/Soumyadipgithub">
-          <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-        </a>
-      </p>
       
 [![](https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10)](https://visitcount.itsvg.in)
 
