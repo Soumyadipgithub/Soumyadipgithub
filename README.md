@@ -25,11 +25,12 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 
 ## <h1 align="center">GSSOC(24) Badges 🪶</h1>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Soumyadipgithub">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="Assets/Hack-Web3Conf 2024 Badge.png" width="100px" height="100px" />
+  <img src="Assets/1.png" width="100px" height="100px" />
+  <img src="Assets/2.png" width="100px" height="100px" />
+  <img src="Assets/3.png" width="100px" height="100px" />
+  <img src="Assets/4.png" width="100px" height="100px" />
+  <img src="Assets/5.png" width="100px" height="100px" />
 </div>
 
 
