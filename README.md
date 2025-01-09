@@ -20,7 +20,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 <img src="Assets/github-foundations_Soumyadipgithub.png" width="100px" height="105px" />
 
 <a href="https://www.credential.net/6f50d938-16a5-4ceb-b79f-e2811c52eff4#acc.NLToU2G1">
-<img src="Assets/github-foundations_Soumyadipgithub.png" width="100px" height="105px" />
+<img src="Assets/Google Play.png" width="100px" height="105px" />
   
 </div>
 </details>
