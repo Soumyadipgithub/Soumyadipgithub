@@ -18,6 +18,10 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 <img src="Assets/Pieces for Developers Soumyadipgithub.png" width="100px" height="100px" />
 <a href="https://www.credly.com/badges/d09dff66-55ba-4bd7-8d9f-2dddc26f2341/public_url">
 <img src="Assets/github-foundations_Soumyadipgithub.png" width="100px" height="105px" />
+
+<a href="https://www.credential.net/6f50d938-16a5-4ceb-b79f-e2811c52eff4#acc.NLToU2G1">
+<img src="Assets/github-foundations_Soumyadipgithub.png" width="100px" height="105px" />
+  
 </div>
 </details>
 
