@@ -43,8 +43,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=radical&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"alt="Soumyadip's GitHub Streak" /></p>
-
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=radical&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"alt="Soumyadip's GitHub Streak" /></p> 
 </div>
 
 
