@@ -47,7 +47,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
   <p>
     <img 
       align="center" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub" 
+      src="https://streak-stats.vercel.app/?user=Soumyadipgithub&theme=radical&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
       alt="Soumyadip's GitHub Streak" 
     />
   </p>
