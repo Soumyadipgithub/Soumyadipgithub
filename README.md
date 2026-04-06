@@ -39,17 +39,6 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats </h1>
 
 <div align="center">
-  <p>
-    <img 
-      align="center" 
-      src="https://streak-stats.vercel.app/?user=Soumyadipgithub&theme=radical&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
-      alt="Soumyadip's GitHub Streak" 
-    />
-  </p>
-</div>
-
-
-<div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" />
 
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Soumyadipgithub&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" />
