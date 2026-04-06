@@ -10,7 +10,7 @@
 -----------------------------------------------------------
 
 👨🏻‍💻 **About Me**
-<img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/main/Assets/home.png"  align="right"> 
+<img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/main/Assets/home.png" min-width="300px" max-width="300px" height="350px" align="right"> 
 
 ✨ Enthusiastic App & Web Developer & CSE Engineer <br>
 🚀 Pursuing B.Tech CSE | Passionate about Tech & Innovation<br>
