@@ -102,10 +102,32 @@ Platforms & Tools:
 </div>
 </details>
 
-<h3 align="center">Holopin Badges 🦖</h3>
+
+## 📦 Featured Works
+
+<div align="center">
+  <a href="https://www.indusappstore.com/apps/education/gkv-n0tes-2.o/int.gkvnots2/">
+    <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/2eb54e434bfb09db1e6164837a48b7953c7ab3f3/Assets/gkvapplogo.png" width="130" style="border-radius:20%" alt="GKV N0tes 2.0"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=Soumyadipgithub.vibesyntax">
+    <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/b94d223cb6918b9fbbf1511ea94c53280fc26e38/Assets/vspng.png" width="130" alt="VibeSyntax"/>
+  </a>
+</div>
+
 <p align="center">
-  <a href="https://holopin.io/@soumyadipgithub">
-    <img src="https://holopin.me/soumyadipgithub" alt="Holopin badges" />
+  <b>GKV N0tes 2.0</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>VibeSyntax</b>
+  <br />
+  <i>Education App</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VS Code Extension</i>
+</p>
+
+<p align="center">
+  <a href="https://www.indusappstore.com/apps/education/gkv-n0tes-2.o/int.gkvnots2/">
+    <img src="https://img.shields.io/badge/Indus%20App%20Store-PUBLISHED-brightgreen?style=for-the-badge&logo=android" />
+  </a>
+  &nbsp;
+  <a href="https://marketplace.visualstudio.com/publishers/Soumyadipgithub">
+    <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-VERIFIED-blue?style=for-the-badge&logo=visual-studio-code" />
   </a>
 </p>
 
