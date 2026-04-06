@@ -25,16 +25,45 @@ I am a computer science engineer who believes that software is, at its core, sim
 <b>🛠 Tech Stack</b><br><br>
 Languages: 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) 
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) 
 ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54&style=flat)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) 
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
+Frameworks & Libraries:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+
+Web & CMS:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+
+Databases & Local Dev:
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat)
+
+UI / UX Design:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
+![Google Stitch](https://img.shields.io/badge/-Google%20Stitch-4285F4?logo=google&logoColor=white&style=flat)
+
+AI & Machine Learning:
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat)
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat)
+
+IDEs & Editors:
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-4285F4?logo=google&logoColor=white&style=flat)
 
 Platforms & Tools: 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?logo=ngrok&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
