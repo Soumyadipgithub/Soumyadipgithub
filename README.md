@@ -18,7 +18,7 @@ I am a computer science engineer who believes that software is, at its core, sim
 
 🌱 Learning: GenAI, Agentic AI, local models, and expanding my knowledge across the entire Software Development Life Cycle (SDLC).
 
-📫 How to reach me: LinkedIn (Always open to connecting—I'm sure I can learn something from you!)
+📫 How to reach me: <a href="https://linkedin.com/in/soumyadip-giri-k">LinkedIn</a> (Always open to connecting—I'm sure I can learn something from you!)
 
 👯 Open to collaborating on: Innovative web/app projects, AI integrations, and hackathons.
 
