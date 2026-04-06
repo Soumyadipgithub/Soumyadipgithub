@@ -26,6 +26,7 @@ I am a computer science engineer who believes that software is, at its core, sim
 
 ⚡ Fun fact: And yes, I am also just one line of code in this cosmos, still running and executing!
 
+📰 My Story: <a href="https://soumyadipgiri.medium.com/hello-world-from-opening-pc-cabinets-to-solving-real-world-problems-a27fc54815a1">From Opening PC Cabinets to Solving Real-World Problems</a>
 ---
 
 <b>🛠 Tech Stack</b><br><br>
