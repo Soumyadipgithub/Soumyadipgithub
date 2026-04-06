@@ -126,7 +126,7 @@ Platforms & Tools:
     <img src="https://img.shields.io/badge/Indus%20App%20Store-PUBLISHED-brightgreen?style=for-the-badge&logo=android" />
   </a>
   &nbsp;
-  <a href="https://marketplace.visualstudio.com/publishers/Soumyadipgithub">
+  <a href="https://marketplace.visualstudio.com/items?itemName=SoumyadipGiri.vibesyntax">
     <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-VERIFIED-blue?style=for-the-badge&logo=visual-studio-code" />
   </a>
 </p>
