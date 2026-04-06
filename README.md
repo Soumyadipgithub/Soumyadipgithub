@@ -49,19 +49,16 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 </div>
 
 
-
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipgithub&theme=github_dark" />
-  
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadipgithub&theme=github_dark" />
-  
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipgithub&theme=github_dark" />
+
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Soumyadipgithub&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" />
 
   <br/>
 
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Soumyadipgithub&show_icons=true&theme=github_dark" />
-  
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipgithub&theme=github_dark" />
+
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipgithub&theme=github_dark&cache_seconds=1800" />
 </div>
  
 <br>
