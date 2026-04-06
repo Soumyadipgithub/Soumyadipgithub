@@ -1,8 +1,5 @@
 <h1 align="center"> Hello Universe, I'm <a href="https://github.com/Soumyadipgithub">Soumyadip Giri</a> </h1>
 
------------------------------------------------------------
-
-👨🏻‍💻 **About Me**
 <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/main/Assets/home.png" min-width="300px" max-width="300px" height="350px" align="right"> 
 
 ### ✨ Passionate CSE Engineer | Web, App, CMS & AI Developer
