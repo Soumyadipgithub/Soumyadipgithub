@@ -110,7 +110,7 @@ Platforms & Tools:
     <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/2eb54e434bfb09db1e6164837a48b7953c7ab3f3/Assets/gkvapplogo.png" width="130" style="border-radius:20%" alt="GKV N0tes 2.0"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=Soumyadipgithub.vibesyntax">
+  <a href="https://marketplace.visualstudio.com/items?itemName=SoumyadipGiri.vibesyntax">
     <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/b94d223cb6918b9fbbf1511ea94c53280fc26e38/Assets/vspng.png" width="130" alt="VibeSyntax"/>
   </a>
 </div>
@@ -132,12 +132,11 @@ Platforms & Tools:
 </p>
 
 ---
-
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Soumyadipgithub&icon=2&color=10" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoumyadipgithub&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
 <br>
 <b>Show some ❤️ by starring some of the repositories!</b>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
