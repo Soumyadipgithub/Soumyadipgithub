@@ -70,7 +70,7 @@ Hi! I’m Soumyadip Giri, an enthusiastic app developer and a dedicated student 
 ## <h1 align="center">🔝 Top Contributed Repo </h1>
    <p align="center">
         <a href="https://github.com/Soumyadipgithub">
-          <img width="700" height="220" src="https://github-contributor-stats.vercel.app/api?username=Soumyadipgithub&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&hide_border=true" alt=" Soumyadipgithub's GitHub Stats" />
+          <img width="700" height="220" src="https://raw.githubusercontent.com/Soumyadipgithub/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt=" Soumyadipgithub's GitHub Stats" />
         </a>
       </p>
 </p>
