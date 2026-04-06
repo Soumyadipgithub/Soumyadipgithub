@@ -133,10 +133,28 @@ Platforms & Tools:
 
 ---
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoumyadipgithub&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
-</p>
-<br>
+  <img src="https://komarev.com/ghpvc/?username=Soumyadipgithub&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Soumyadipgithub Views" />&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/soumyadip-giri-k">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/Soumyadipgithub?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Soumyadipgithub?label=Star%20Gazers&style=social">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/Soumyadipgithub?tab=followers">
+    <img src="https://img.shields.io/github/followers/Soumyadipgithub?style=social">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@lifeCaptured0895">
+    <img src="https://img.shields.io/youtube/channel/views/UCrWU2QuzVB-tsJQhcFveNNw?style=social">
+  </a>
+  <br>
 <b>Show some ❤️ by starring some of the repositories!</b>
+</p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
