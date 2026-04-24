@@ -168,7 +168,7 @@ Platforms & Tools:
         <img src="https://raw.githubusercontent.com/Soumyadipgithub/Soumyadipgithub/5d314255f5df3f0a88308bff2268a2cd9435eff9/Assets/sync_speak.png" width="130" style="border-radius:20%" alt="SyncSpeak"/>
       </a>
       <br />
-      <b>SyncSpeak</b>
+      <b>Sync Speak</b>
       <br />
       <i>Desktop Application</i>
       <br />
