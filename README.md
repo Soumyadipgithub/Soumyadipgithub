@@ -173,7 +173,7 @@ Platforms & Tools:
       <i>Desktop Application</i>
       <br />
       <a href="https://syncspeak.soumg.workers.dev/">
-        <img src="https://img.shields.io/badge/Cloudflare-LIVE-orange?style=for-the-badge&logo=cloudflare" />
+        <img src="https://img.shields.io/badge/Desktop%20App-DOWNLOAD-orange?style=for-the-badge&logo=windows" />
       </a>
     </td>
   </tr>
