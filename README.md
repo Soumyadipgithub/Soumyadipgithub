@@ -134,7 +134,7 @@ Platforms & Tools:
 ## 📦 Featured Works
 
 <div align="center">
-  <a href="https://www.indusappstore.com/apps/education/gkv-n0tes-2.o/int.gkvnots2/">
+  <a href="https://www.indusappstore.com/apps/education/gkv-n0tes-2.o/int.gkvnots2?page=details&id=int.gkvnots2">
     <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/2eb54e434bfb09db1e6164837a48b7953c7ab3f3/Assets/gkvapplogo.png" width="130" style="border-radius:20%" alt="GKV N0tes 2.0"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
