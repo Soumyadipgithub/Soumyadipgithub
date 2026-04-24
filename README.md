@@ -135,18 +135,22 @@ Platforms & Tools:
 
 <div align="center">
   <a href="https://www.indusappstore.com/apps/education/gkv-n0tes-2.o/int.gkvnots2?page=details&id=int.gkvnots2">
-    <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/2eb54e434bfb09db1e6164837a48b7953c7ab3f3/Assets/gkvapplogo.png" width="130" style="border-radius:20%" alt="GKV N0tes 2.0"/>
+    <img src="https://raw.githubusercontent.com/Soumyadipgithub/Soumyadipgithub/2eb54e434bfb09db1e6164837a48b7953c7ab3f3/Assets/gkvapplogo.png" width="130" style="border-radius:20%" alt="GKV N0tes 2.0"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=SoumyadipGiri.vibesyntax">
-    <img src="https://github.com/Soumyadipgithub/Soumyadipgithub/blob/b94d223cb6918b9fbbf1511ea94c53280fc26e38/Assets/vspng.png" width="130" alt="VibeSyntax"/>
+    <img src="https://raw.githubusercontent.com/Soumyadipgithub/Soumyadipgithub/b94d223cb6918b9fbbf1511ea94c53280fc26e38/Assets/vspng.png" width="130" alt="VibeSyntax"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://syncspeak.soumg.workers.dev/">
+    <img src="https://raw.githubusercontent.com/Soumyadipgithub/Soumyadipgithub/5d314255f5df3f0a88308bff2268a2cd9435eff9/Assets/sync_speak.png" width="130" style="border-radius:20%" alt="SyncSpeak"/>
   </a>
 </div>
 
 <p align="center">
-  <b>GKV N0tes 2.0</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>VibeSyntax</b>
+  <b>GKV N0tes 2.0</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>VibeSyntax</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SyncSpeak</b>
   <br />
-  <i>Education App</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VS Code Extension</i>
+  <i>Education App</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>VS Code Extension</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Desktop Application</i>
 </p>
 
 <p align="center">
@@ -156,6 +160,10 @@ Platforms & Tools:
   &nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=SoumyadipGiri.vibesyntax">
     <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-VERIFIED-blue?style=for-the-badge&logo=visual-studio-code" />
+  </a>
+  &nbsp;
+  <a href="https://syncspeak.soumg.workers.dev/">
+    <img src="https://img.shields.io/badge/Cloudflare-LIVE-orange?style=for-the-badge&logo=cloudflare" />
   </a>
 </p>
 
